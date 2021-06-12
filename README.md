@@ -2,7 +2,6 @@
 
 ### A passionate frontend developer from Seoul
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **everything**
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: [https://codingppushu.github.io/](https://codingppushu.github.io/)
