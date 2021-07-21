@@ -3,9 +3,8 @@
 ### A passionate frontend developer from Seoul
 
 - 🌱 I’m currently learning **everything**
-- 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: [https://codingppushu.github.io/](https://codingppushu.github.io/)
-- ⚡ Fun fact: I love to movie
+- ⚡ Fun fact: I like watching movies
 
 ### Languages and Tools:
 
